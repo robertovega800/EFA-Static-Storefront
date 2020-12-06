@@ -1,0 +1,139 @@
+body{
+    background-image: url("../EFA_StaticStorefront/Assets/fashion-store.jpg");
+    background-size: contain;
+}
+.top-nav {
+    float: top;
+    border: solid 2px black;
+   display: flex;
+   justify-content: space-between;
+   text-align: center;
+   background-image: url("../EFA_StaticStorefront/Assets/TomSwag.jpg");
+   background-size: contain;
+   background-position: center;
+}
+.top-nav h3{
+    color: cornflowerblue;
+    margin-top: 60px;
+    margin-bottom: 5px;
+}
+.top-nav h1{
+    color: cornflowerblue;
+    margin-top: 0px;
+}
+#login {
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+    border: solid;
+    background-color: whitesmoke;
+    justify-content: flex-end;
+    list-style: none;
+    padding-right: 15px;
+}
+#login ul li{
+    display: inline-block;
+    list-style: none;
+    margin: 0 0 0 0.6em;
+    padding: 0;
+} 
+#login a:hover{
+    text-decoration: aquamarine;
+}
+#avatarIcon{
+    height: 30px;
+    display: flex;
+    justify-content: flex-end;
+}
+#nav-menu {
+    border: solid;
+    background-color: whitesmoke;
+    padding-right: 15px;
+    text-align: center;
+}
+#nav-menu ul{
+    list-style: none;
+}
+#nav-menu ul li {
+    text-decoration: none;
+    color: crimson;
+    display: flex;
+    justify-content: space-around;
+    padding: 0.5em 0.7em 0 0;
+    margin: 0;
+}
+#sidebar{
+    background-color: whitesmoke;
+    float: right;
+    position: relative;
+    width: 250px;
+    height: 700px;
+    border: inset;
+    margin-top: 5px;
+    margin-right: 20px;
+    padding: 1%;
+}
+#sidebar h1 {
+    text-decoration: underline;
+}
+#sidebar ul li{
+    margin: 5px;
+}
+#card-container {
+    background-color: black;
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    border: solid whitesmoke;
+    width: 1000px;
+    height: 700px;
+    margin: 50px;
+    padding: 5px;
+}
+.treatYoSelf{
+    text-align: center;
+    padding: 0px;
+    color: whitesmoke;
+}
+#card-container h1{
+    font-weight: bolder;
+    display: flex;
+    justify-content: center;
+}
+#card-container h3{
+    color: black;
+}
+.card {
+    background-color: whitesmoke;
+    text-align: center;
+    padding: 10px;
+    margin: auto;
+    border-style: inset;
+}
+#img{
+    border-style: ridge;
+}
+footer ul#menuFooter {
+    display: inline-block;
+    list-style: none;
+    margin: 0 0 0 0.6em;
+    padding: 0;
+}
+footer ul li {
+    display: inline-block;
+    padding: 0 0.7em 0 0;
+    margin: 0;
+}
+footer ul li::before {
+    content: "| ";
+    padding-right: 0.7em;
+}
+footer a, footer a:visited {
+    color: #fff;
+    text-decoration: none;
+}
+footer a:hover {
+    color: #fff;
+    text-decoration: underline;
+}
+
