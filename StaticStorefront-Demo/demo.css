@@ -1,0 +1,79 @@
+body {
+    background-color: #CDE0E2;
+}
+#main-container {
+    width: 80vw;
+}
+#main-container section{
+    display: inline-block;
+    background-color: #F5D096;
+    border: solid;
+    border-color: #13D7ED;
+    border-width: 15px;
+    border-radius: 25px;
+    margin: 100px;
+}
+#side-bar {
+    float: left;
+    width: 200px;
+    height: 600px;
+}
+#side-bar ul {
+    padding: 10%;
+    list-style: none;
+    text-align: center;
+}
+#side-bar li {
+    background-color: #F09B5A;
+    margin-top: 30px;
+    color: #F5F0DF;
+    border: solid;
+    border-width: 7px;
+    border-radius: 10px;
+}
+.nav-link a {
+    color: #F5F0DF;
+    text-decoration: none;
+    font-size: 24pt;
+    font-weight: bolder;
+}
+#center-dashboard {
+    width: 800px;
+    height: 600px;
+}
+#searchInput {
+    width: 50%;
+    margin: 0 auto;
+    padding: 5%;
+}
+#card-container {
+    padding: 20px;
+}
+#card-container div {
+    display: inline-block;
+    background-color: lightgray;
+    width: 300px;
+    height: 210px;
+    margin: 20px;
+    border: solid;
+    border-color: #13D7ED;
+    border-top-width: 20px;
+    border-bottom-width: 20px;
+    border-left-width: 7px;
+    border-right-width: 7px;
+    border-radius: 50%;
+}
+#card-container ul {
+    list-style: none;
+}
+#card-container h1 {
+    width: 50%;
+}
+#card-container li {
+    width: 70%;
+    text-align: left;
+    padding: 3px;
+    margin-left: 20px;
+    font-size: 14pt;
+    font-weight: bold;
+}

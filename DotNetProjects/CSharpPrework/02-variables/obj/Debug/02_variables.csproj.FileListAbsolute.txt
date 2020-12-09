@@ -1,0 +1,4 @@
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPrework\02-variables\obj\Debug\02_variables.csprojAssemblyReference.cache
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPrework\02-variables\obj\Debug\02_variables.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPrework\02-variables\obj\Debug\02-variables.exe
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPrework\02-variables\obj\Debug\02-variables.pdb

@@ -1,0 +1,6 @@
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPrework\06_booleans\bin\Debug\06_booleans.exe.config
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPrework\06_booleans\bin\Debug\06_booleans.exe
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPrework\06_booleans\bin\Debug\06_booleans.pdb
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPrework\06_booleans\obj\Debug\06_booleans.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPrework\06_booleans\obj\Debug\06_booleans.exe
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPrework\06_booleans\obj\Debug\06_booleans.pdb

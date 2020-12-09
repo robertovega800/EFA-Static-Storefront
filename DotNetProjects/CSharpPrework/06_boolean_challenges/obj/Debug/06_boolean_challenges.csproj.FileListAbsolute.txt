@@ -1,0 +1,6 @@
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPrework\06_boolean_challenges\bin\Debug\06_boolean_challenges.exe.config
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPrework\06_boolean_challenges\bin\Debug\06_boolean_challenges.exe
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPrework\06_boolean_challenges\bin\Debug\06_boolean_challenges.pdb
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPrework\06_boolean_challenges\obj\Debug\06_boolean_challenges.csproj.CoreCompileInputs.cache
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPrework\06_boolean_challenges\obj\Debug\06_boolean_challenges.exe
+C:\ElevenFiftyProjects\DotNetProjects\CSharpPrework\06_boolean_challenges\obj\Debug\06_boolean_challenges.pdb
