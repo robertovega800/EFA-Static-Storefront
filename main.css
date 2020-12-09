@@ -1,5 +1,5 @@
 body{
-    background-image: url(../EFA_StaticStorefront/Assets/fashion-store.jpg);
+    background-image: url(./Assets/fashion-store.jpg);
     background-size: contain;
 }
 .top-nav {
