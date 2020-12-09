@@ -8,7 +8,7 @@ body{
    display: flex;
    justify-content: space-between;
    text-align: center;
-   background-image: url("../EFA_StaticStorefront/Assets/TomSwag.jpg");
+   background-image: url("./Assets/TomSwag.jpg");
    background-size: contain;
    background-position: center;
 }
